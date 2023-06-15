@@ -162,7 +162,9 @@ body {
   .toggle-switch {
     margin-bottom: 10px;
   }
-
+li{
+    width: 100%;
+  }
   .save-btn {
     width: 80%;
   }
